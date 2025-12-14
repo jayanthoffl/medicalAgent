@@ -145,6 +145,7 @@ Add post-processing to tag feedback as Positive / Negative / Urgent
 Fallback Handling:
 Implement fallback logic for generic English models if Sarvam API latency spikes
 
+---
 
 <p align="center"><em>Crafted with an interest in real-time AI systems ~Jayanth</em></p>
 
