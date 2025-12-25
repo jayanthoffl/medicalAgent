@@ -5,8 +5,10 @@ A real-time, low-latency voice AI agent designed to automate post-consultation p
 ## Project Overview
 
 This agent automates the critical loop of patient feedback retention. Instead of static forms, it engages patients in natural, voice-based conversations immediately after appointments. The system handles full-duplex audio streaming, voice activity detection, and state management to guide the conversation through a structured questionnaire before autonomously triggering a function call to persist structured data.
+<img width="1005" height="774" alt="Screenshot 2025-12-26 014221" src="https://github.com/user-attachments/assets/3afe1ea5-dcad-430f-939f-9357f9634670" />
 
 ### Key Features
+
 
 - **Real-time Full-Duplex Voice:** Built on WebRTC via LiveKit for sub-second latency.
 - **Region-Specific Speech AI:** Utilizes Sarvam AI's `saaras` (STT) and `bulbul` (TTS) models optimized for Indian English accents and speech patterns.
